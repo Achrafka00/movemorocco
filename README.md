@@ -55,8 +55,10 @@ php artisan serve  # Laravel backend
 #Project Structure
 /frontend   → React app  
 /backend    → Laravel API  
-/database   → SQL scripts  
-#features 
+/database   → SQL scripts
+```
+---
+## features 
 💳 Payment integration (Stripe / CMI)
 
 🤖 WhatsApp API integration
@@ -65,12 +67,10 @@ php artisan serve  # Laravel backend
 
 📱 Mobile app (React Native)
 
-#License
+---
+## License
 © 2025 MoveMorocco – All rights reserved.
 For educational and portfolio use only.
-
 <div align="center">
 💡 Developed with ❤️ by the MoveMorocco Team Achraf Kaa-ouarda and Tarik Sgheir
-
-```
 </div>
